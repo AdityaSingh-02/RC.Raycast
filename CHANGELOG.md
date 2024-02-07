@@ -1,0 +1,3 @@
+# openstatus test Changelog
+
+## [Initial Version] - 2024-02-06
